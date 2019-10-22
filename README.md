@@ -6,3 +6,12 @@ As it is still tax time, what better use of my time is there to automate this pr
 
 Inspiration from
 https://www.tec-trends.de/tec/anleitung/amazon-bestellungen-exportieren-uebersicht-ueber-umsatz/
+
+There is a similar project for Chrome
+https://github.com/philipmulcahy/azad
+Maybe it is possible to combine them
+
+Some issues I have with the other solutions. They
+* Track order, for tax reasons I need the items
+* Orders with more than 4 different items are incompletly described
+
