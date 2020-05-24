@@ -15,3 +15,10 @@ Some issues I have with the other solutions. They
 * Track order, for tax reasons I need the items
 * Orders with more than 4 different items are incompletly described
 
+
+## Approach
+
+* Got to an Amazone order site, iterate through all the orders
+* Iterate through all elements of one order. Be sure that to handle orders with multiple items
+* Visit all the pages of orders for a year.
+* Optinal, do this for all years
